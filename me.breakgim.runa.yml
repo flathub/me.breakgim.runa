@@ -30,5 +30,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/breakgimme/runa.git
-        tag: v0.1.4
-        commit: de227ac380722c03d29fc253678f920e160cb26f
+        tag: v0.1.5
+        commit: d523feef58e875b79246811d85a8676e92a578a8
