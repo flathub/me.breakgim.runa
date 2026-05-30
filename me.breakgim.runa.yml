@@ -1,6 +1,6 @@
 app-id: me.breakgim.runa
 runtime: org.gnome.Platform
-runtime-version: '49'
+runtime-version: '50'
 sdk: org.gnome.Sdk
 command: runa
 
@@ -30,5 +30,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/breakgimme/runa.git
-        tag: v0.1.5
-        commit: d523feef58e875b79246811d85a8676e92a578a8
+        tag: v0.1.6
+        commit: 46dcb4702fb28a7e892564d0e79db0e90df313b7
